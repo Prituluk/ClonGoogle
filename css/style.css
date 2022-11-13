@@ -49,7 +49,6 @@ li {
     text-decoration: underline;
 }
 .menu-font {
-    
     width: 40px;
     height: 40px;
     display: flex;
@@ -82,18 +81,18 @@ li {
     width: 100%;
     height: auto;
     text-align: center;
-    margin-top: 130px;
+    margin-top: 100px;
 }
 .containerLogoGoogle img {
-    width: 315px;
+    width: 270px;
 }
 .ContainerBuscador {
     width: 100%;
     height: auto;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .buscador {
-    width: 640px;
+    width: 600px;
     height: 50px;
     margin: 0 auto;
     border: 2px solid #e7e8eb;
